@@ -8,12 +8,12 @@ Meu nome é Mariane Proença, e estou participando de um Lab da DIO como parte d
 
 ### Público-alvo
 
-- **Empregados** na área administrativa. Este público está familiarizado com a tecnologia e reconhece a importância da transformação digital, mas ainda não possui uma fluência aprofundada em dados.
+- **Empregados da área administrativa**, público que está familiarizado com a tecnologia e reconhece a importância da transformação digital, mas ainda não possui uma fluência aprofundada em dados.
 
 ### Propósito do Projeto
 
-- **Ensinar a Importância da Fluência em Dados**: Com foco em uma base de dados bem organizada, limpa e robusta, além de padronizada.
-- **Formação de Habilidades Iniciais**: Proporcionar aos participantes uma base para desenvolver habilidades de análise, visualização e interpretação de dados, essencial para o processo de transformação digital.
+- **Trocar ideias sobre a Importância da Fluência em Dados**: Com foco em uma base de dados bem organizada, limpa e robusta, além de padronizada.
+- **Formação de Habilidades Iniciais**: Proporcionar aos participantes uma troca de informações que servirá de base para desenvolver habilidades de análise, visualização e interpretação de dados, essencial para o processo de transformação digital.
 
 ## 📒 Descrição do Conteúdo
 
@@ -31,7 +31,7 @@ Ser "fluente em dados" é **compreender do que se trata o dado e saber usá-lo p
 ## 🤖 Tecnologias Utilizadas
 
 - **Ferramentas para demonstração**: Excel e Power BI, como ferramentas práticas para análise e visualização de dados no contexto administrativo.
-- **Bibliotecas/Frameworks sugeridos**: A utilização de bibliotecas como Pandas e Matplotlib (Python) pode ser indicada para quem deseja expandir a prática para fora do Excel, mas esses exemplos podem ser opcionais ou introdutórios.
+- **Bibliotecas/Frameworks sugeridos**: A utilização de bibliotecas como Pandas e Matplotlib (Python) pode ser indicada para quem deseja expandir a prática para fora do Excel.
 
 ## 🧐 Processo de Criação
 
